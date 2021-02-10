@@ -22,7 +22,11 @@ Para instalar NGINX lo único que tendremos que hacer es un *apt install nginx* 
 
 ## Casos Prácticos
 
-![1](/INSTALACION.md  "INSTALACION")
+![1](/INSTALACION.md  "Casos Prácticos")
 
 
 ## Referencias
+
+https://www.ionos.es/digitalguide/servidores/configuracion/nginx-tutorial-primeros-pasos-con-nginxconf/
+
+https://geekytheory.com/como-configurar-multiples-dominios-y-subdominios-en-nginx

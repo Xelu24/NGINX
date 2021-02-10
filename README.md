@@ -41,6 +41,6 @@ Autenticación,Autorización y control de acceso
 
 web1 se podra acceder desde la red externa e interna mientras que la web2 solo interna
 
-![3](/IMAGENES/WEB2.SOLO INTERNA.png "WEB2) 
+![3](/IMAGENES/WEB2.SOLO_INTERNA.png "WEB2) 
 
 ## Referencias

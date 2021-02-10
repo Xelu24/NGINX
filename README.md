@@ -34,5 +34,7 @@ El fichero lo llamaremos web1.conf y web2.conf.
 
 ![1](/IMAGENES/WEB1.1.png  "WEB")
 
+![2](/IMAGENES/WEB2.1.png  "WEB")
+
 
 ## Referencias

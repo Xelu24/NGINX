@@ -24,10 +24,10 @@ Para instalar NGINX lo único que tendremos que hacer es un *apt install nginx* 
 Página por defecto:
 Para este caso práctico lo único que tendremos que hacer es editar el index.html de inicio de nginx.
 cd /var/www/html/
-'echo "<p> Bienvenidos a mi servidor web </p>"'
+echo "<p> Bienvenidos a mi servidor web </p>"
 
 
-'echo "<p> Tu nombre:José Luis </p>"'
+echo "<p> Tu nombre:José Luis </p>"
 
 Virtual Hosting:
 Vamos a crear 2 sitios web, llamados web1 y web2 usando el mismo puerto para eso tendremos que tocar un fichero.

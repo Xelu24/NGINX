@@ -25,6 +25,8 @@ Página por defecto:
 Para este caso práctico lo único que tendremos que hacer es editar el index.html de inicio de nginx.
 cd /var/www/html/
 'echo "<p> Bienvenidos a mi servidor web </p>"'
+
+
 'echo "<p> Tu nombre:José Luis </p>"'
 
 Virtual Hosting:

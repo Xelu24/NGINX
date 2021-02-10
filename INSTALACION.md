@@ -16,8 +16,12 @@ El fichero lo llamaremos web1.conf y web2.conf.
 ![2](./IMAGENES/WEB2.1.png  "WEB2")
 
 
-## Autenticación,Autorización y control de acceso
+## Autenticación,Autorización y control de acceso:
 
 web1 se podra acceder desde la red externa e interna mientras que la web2 solo interna
 
 ![3](./IMAGENES/WEB2.SOLO_INTERNA.png "WEB2") 
+
+web1 tendrá un directorio llamado privado que la red interna podrá acceder sin autenticarse mientras que si es por red externa se tendrá que identificar
+
+![4](./IMAGENES/WEB1.AUTHENTICACIÓN.png "WEB1")

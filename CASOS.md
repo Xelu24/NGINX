@@ -9,9 +9,9 @@ la ruta es: /var/www/html/index.html
 ## Virtual Hosting:
 Vamos a crear 2 sitios web, llamados web1 y web2 usando el mismo puerto para eso tendremos que tocar un fichero.
 
-El fichero lo llamaremos web1.conf y web2.conf.
+El fichero lo llamaremos web1.conf y web2.conf será una copia editada del archivo default situado en /etc/nginx/sites-avaliable.
 
-Para habilitar al sitio virtual hay que poner el fichero en /etc/nginx/sites-enabled.
+Para habilitar el sitio virtual hay que poner el fichero en /etc/nginx/sites-enabled.
 
 ![1](./IMAGENES/WEB1.1.png  "WEB1")
 

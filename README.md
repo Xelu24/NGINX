@@ -11,9 +11,7 @@
 
 ![4.Instalación](/INSTALACION.md "Instalacion")
 
-## Casos Prácticos
-
-![Casos Prácticos](/CASOS.md  "Casos Prácticos")
+![5.Casos Prácticos](/CASOS.md  "Casos Prácticos")
 
 
 ## Referencias

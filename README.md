@@ -4,12 +4,12 @@
 ## INDÍCE
 
 ![1.Introducción](/INTRODUCCION.md "introduccion")
+
 ![2.Diferencia con Apache](/DIFERENCIA.md "diferencia")
+
 ![3.Esquema](/ESQUEMA.md "Esquema")
 
-
-## Instalación
-Para instalar NGINX lo único que tendremos que hacer es un *apt install nginx* y nos instalará nuestro servidor NGINX.
+![4.Instalación](/INSTALACION.md "Instalacion")
 
 ## Casos Prácticos
 

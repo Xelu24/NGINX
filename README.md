@@ -14,7 +14,7 @@
 ![5.Casos Prácticos](/CASOS.md  "Casos Prácticos")
 
 
-## Referencias
+## REFERENCIAS
 
 https://www.ionos.es/digitalguide/servidores/configuracion/nginx-tutorial-primeros-pasos-con-nginxconf/
 

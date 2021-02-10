@@ -4,17 +4,8 @@
 ## INDÍCE
 
 ![1.Introducción](/INTRODUCCION.md "introduccion")
-
-## ¿Que se diferencia con apache?
-La diferencia con apache es que nginx tiene un mejor soporte de usuarios gracias a sus gestión de procesos.
-
-
-## Esquema
-El esquema de red que utilizaremos será el siguiente:
-
-
-![Red](/IMAGENES/Red.png "Red")
-
+![2.Diferencia con Apache](/DIFERENCIA.md "diferencia")
+![3.Esquema](/ESQUEMA.md "Esquema")
 
 
 ## Instalación

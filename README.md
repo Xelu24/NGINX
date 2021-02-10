@@ -22,7 +22,7 @@ Para instalar NGINX lo único que tendremos que hacer es un *apt install nginx* 
 
 ## Casos Prácticos
 
-![1](/INSTALACION.md  "Casos Prácticos")
+![Casos Prácticos](/INSTALACION.md  "Casos Prácticos")
 
 
 ## Referencias

@@ -25,7 +25,7 @@ Página por defecto:
 Para este caso práctico lo único que tendremos que hacer es editar el index.html de inicio de nginx.
 cd /var/www/html/
 
-echo 
+echo '<p></p>'
 
 
 echo 

@@ -25,3 +25,9 @@ web1 se podra acceder desde la red externa e interna mientras que la web2 solo i
 web1 tendrá un directorio llamado privado que la red interna podrá acceder sin autenticarse mientras que si es por red externa se tendrá que identificar
 
 ![4](./IMAGENES/WEB1.AUTHENTICACIÓN.png "WEB1")
+
+## Seguridad
+
+Hacer que el sitio web1 sea seguro hay que decir que antes de eso debemos crear un certificado.
+
+![4](./IMAGENES/WEB1.SSL.png "WEB1")

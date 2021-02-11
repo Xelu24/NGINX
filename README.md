@@ -3,15 +3,15 @@
 
 ## INDÍCE
 
-![1.Introducción](/INTRODUCCION.md "introduccion")
+[1.Introducción](/INTRODUCCION.md "introduccion")
 
-![2.Diferencia con Apache](/DIFERENCIA.md "diferencia")
+[2.Diferencia con Apache](/DIFERENCIA.md "diferencia")
 
-![3.Esquema](/ESQUEMA.md "Esquema")
+[3.Esquema](/ESQUEMA.md "Esquema")
 
-![4.Instalación](/INSTALACION.md "Instalacion")
+[4.Instalación](/INSTALACION.md "Instalacion")
 
-![5.Casos Prácticos](/CASOS.md  "Casos Prácticos")
+[5.Casos Prácticos](/CASOS.md  "Casos Prácticos")
 
 
 ## REFERENCIAS
